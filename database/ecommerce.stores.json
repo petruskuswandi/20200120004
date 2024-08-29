@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "669766675185121144e5d223"
+  },
+  "name": "Dahlia Clean Shoes",
+  "province": "9",
+  "city": "108",
+  "address": "LOBUNTA JL. PELANGI IV D26 NO. 15, KEC. MUNDU, KEL. BANJARWANGUNAN, KAB. CIREBON, JAWA BARAT, 45173, INDONESIA",
+  "sliders": [
+    {
+      "link": "http://server-api.silatu.cloud/assets/IMG-20240730-WA0023-1723617047584.jpg",
+      "title": "Default Title",
+      "description": "Default Description",
+      "_id": {
+        "$oid": "66bc4f17aa33b3cf3d5ee3c4"
+      }
+    },
+    {
+      "link": "http://server-api.silatu.cloud/assets/IMG-20240730-WA0026-1723617071058.jpg",
+      "title": "Default Title",
+      "description": "Default Description",
+      "_id": {
+        "$oid": "66bc4f2faa33b3cf3d5ee3cc"
+      }
+    },
+    {
+      "link": "http://server-api.silatu.cloud/assets/IMG-20240730-WA0028-1723617071061.jpg",
+      "title": "Default Title",
+      "description": "Default Description",
+      "_id": {
+        "$oid": "66bc4f2faa33b3cf3d5ee3ce"
+      }
+    }
+  ],
+  "logo": "http://server-api.silatu.cloud/assets/logo2-1723617146491.png",
+  "createdAt": {
+    "$date": "2024-08-03T21:36:58.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T17:56:30.646Z"
+  },
+  "__v": 14,
+  "phone": "08989555558"
+}]

@@ -1,0 +1,1069 @@
+[{
+  "_id": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "orderId": "ORD-1722827030528-ac4i1e",
+  "user": {
+    "$oid": "66ae53eff96b465a7439154b"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "87810108181"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "cod",
+  "paymentStatus": "settlement",
+  "orderStatus": "confirmed",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "ready_for_delivery",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b04117a7e8f91da9838b1d"
+      },
+      "beforeWashingImages": [
+        {
+          "link": "http://server-api.silatu.cloud/orders/download-1722908627377.jpg",
+          "_id": {
+            "$oid": "66b17fd3a7e8f91da9838e9b"
+          }
+        }
+      ],
+      "afterWashingImages": [
+        {
+          "link": "http://server-api.silatu.cloud/orders/download (3)-1722908660653.jpg",
+          "_id": {
+            "$oid": "66b17ff4a7e8f91da9838eb5"
+          }
+        }
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-05T10:03:51.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:11:16.798Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-05T18:03:51.233Z"
+  },
+  "__v": 4,
+  "pickupScheduledTime": {
+    "$date": "2024-08-05T10:05:53.596Z"
+  },
+  "confirmedTime": {
+    "$date": "2024-08-05T10:06:05.303Z"
+  },
+  "pickedUpTime": {
+    "$date": "2024-08-05T18:54:30.464Z"
+  },
+  "ReceivedTime": {
+    "$date": "2024-08-05T18:57:51.931Z"
+  },
+  "queueTime": {
+    "$date": "2024-08-06T08:42:39.558Z"
+  },
+  "readyForDeliveryTime": {
+    "$date": "2024-08-06T08:43:04.434Z"
+  },
+  "uploadPaymentReceipt": [
+    {
+      "link": "http://localhost:2000/payment_receipts/Transkrip Nilai S1_Petrus Kuswandi-1723252171150.png",
+      "_id": {
+        "$oid": "66b6bdcb8758501f1a4c8501"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b183f6a7e8f91da98390fd"
+  },
+  "orderId": "ORD-1722909686804-1sfwt8",
+  "user": {
+    "$oid": "66ae53eff96b465a7439154b"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "87810108181"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b183f6a7e8f91da98390fe"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T09:01:26.102Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T23:02:04.935Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-06T17:01:26.102Z"
+  },
+  "__v": 3,
+  "uploadPaymentReceipt": [
+    {
+      "link": "http://localhost:2000/payment_receipts/tandatangan-1723219324876.png",
+      "_id": {
+        "$oid": "66b63d7c71bae8d453ad07ec"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b18422a7e8f91da9839156"
+  },
+  "orderId": "ORD-1722909731461-ybf720",
+  "user": {
+    "$oid": "66ae53eff96b465a7439154b"
+  },
+  "address": "LOBUNTA",
+  "phone": {
+    "$numberLong": "87810108181"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 70000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "settlement",
+  "orderStatus": "pending",
+  "deliveryOption": "pickup_by_laundry",
+  "deliveryStatus": "pending",
+  "shippingCost": 20000,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b18422a7e8f91da9839157"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-06T09:02:10.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:02:59.747Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-06T17:02:10.730Z"
+  },
+  "__v": 1,
+  "uploadPaymentReceipt": []
+},
+{
+  "_id": {
+    "$oid": "66b43c2262dde8d766de06cb"
+  },
+  "orderId": "ORD-1723087906748-fpaid0",
+  "user": {
+    "$oid": "66ae4856f96b465a743912c9"
+  },
+  "address": "LOBUNTA JL. PELANGI IV D26 NO. 15",
+  "phone": {
+    "$numberLong": "87888887790"
+  },
+  "subtotal": 50000,
+  "discount": 5000,
+  "voucherApplied": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "total": 65000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "pickup_by_laundry",
+  "deliveryStatus": "pending",
+  "shippingCost": 20000,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b43c2262dde8d766de06cc"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-08T10:31:46.968Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-11T20:30:09.409Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-08T18:31:46.968Z"
+  },
+  "__v": 4,
+  "uploadPaymentReceipt": [
+    {
+      "link": "http://server-api.silatu.cloud/payment_receipts/Screenshot_20240811-160023-1723383009377.jpg",
+      "_id": {
+        "$oid": "66b8bce1aa33b3cf3d5ed6be"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66b58db362dde8d766de097a"
+  },
+  "orderId": "ORD-1723174323032-sglvma",
+  "user": {
+    "$oid": "66ae53eff96b465a7439154b"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "87810108181"
+  },
+  "subtotal": 150000,
+  "discount": 0,
+  "total": 150000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "settlement",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 3,
+      "_id": {
+        "$oid": "66b58db362dde8d766de097b"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-09T10:32:03.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T10:33:23.081Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-09T18:32:03.176Z"
+  },
+  "__v": 1,
+  "uploadPaymentReceipt": []
+},
+{
+  "_id": {
+    "$oid": "66b6cc97d16fd599942d6f3d"
+  },
+  "orderId": "ORD-1723255957832-a0gmw9",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 5000,
+  "voucherApplied": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "total": 45000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b6cc97d16fd599942d6f3e"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [
+    {
+      "link": "http://server-api.silatu.cloud/payment_receipts/Screenshot_20240809-122047-1723255971091.jpg",
+      "_id": {
+        "$oid": "66b6cca3d16fd599942d6f57"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-10T09:12:39.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T09:12:51.121Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-10T17:12:39.288Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66b6d8bed16fd599942d768e"
+  },
+  "orderId": "ORD-1723259068830-tbpegr",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b6d8bed16fd599942d768f"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-10T10:04:30.096Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T10:04:30.096Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-10T18:04:30.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6d8cad16fd599942d76a9"
+  },
+  "orderId": "ORD-1723259080882-31098i",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b6d8cad16fd599942d76aa"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-10T10:04:42.129Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T10:04:42.129Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-10T18:04:42.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6d905d16fd599942d76fe"
+  },
+  "orderId": "ORD-1723259140532-yl7i7h",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "gopay",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b6d905d16fd599942d76ff"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-10T10:05:41.781Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T10:05:41.781Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-10T18:05:41.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6d919d16fd599942d7742"
+  },
+  "orderId": "ORD-1723259160648-q6aq7l",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "shopeepay",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b6d919d16fd599942d7743"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-10T10:06:01.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T10:06:01.870Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-10T18:06:01.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b707b1aa33b3cf3d5ecb4c"
+  },
+  "orderId": "ORD-1723271088960-p2n1jr",
+  "user": {
+    "$oid": "66b7076aaa33b3cf3d5eca97"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82617183728"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b707b1aa33b3cf3d5ecb4d"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-10T13:24:49.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:24:49.154Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-10T21:24:49.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7082aaa33b3cf3d5ecccc"
+  },
+  "orderId": "ORD-1723271210244-t89muv",
+  "user": {
+    "$oid": "66b7076aaa33b3cf3d5eca97"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82617183728"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "gopay",
+  "paymentStatus": "settlement",
+  "orderStatus": "confirmed",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pickup_scheduled",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b7082aaa33b3cf3d5ecccd"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-10T13:26:50.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:28:34.656Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-10T21:26:50.569Z"
+  },
+  "__v": 0,
+  "confirmedTime": {
+    "$date": "2024-08-10T13:27:44.924Z"
+  },
+  "pickupScheduledTime": {
+    "$date": "2024-08-10T13:28:34.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b9a488aa33b3cf3d5ed83d"
+  },
+  "orderId": "ORD-1723442312177-xgsy0x",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "cod",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b9a488aa33b3cf3d5ed83e"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-12T12:58:32.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:58:32.449Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-12T20:58:32.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a4a1aa33b3cf3d5ed858"
+  },
+  "orderId": "ORD-1723442337327-9zkdva",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b9a4a1aa33b3cf3d5ed859"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-12T12:58:57.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:58:57.585Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-12T20:58:57.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a4cfaa33b3cf3d5ed8a7"
+  },
+  "orderId": "ORD-1723442383121-bnk7ek",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "gopay",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b9a4cfaa33b3cf3d5ed8a8"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-12T12:59:43.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T12:59:43.410Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-12T20:59:43.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a4e8aa33b3cf3d5ed8f6"
+  },
+  "orderId": "ORD-1723442408679-1ay6kr",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "credit_card",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b9a4e8aa33b3cf3d5ed8f7"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-12T13:00:09.001Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:00:09.001Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-12T21:00:09.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a505aa33b3cf3d5ed945"
+  },
+  "orderId": "ORD-1723442437559-4ngwl4",
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "82211199716"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 50000,
+  "paymentMethod": "shopeepay",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b9a505aa33b3cf3d5ed946"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-12T13:00:37.887Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:00:37.887Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-12T21:00:37.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "orderId": "ORD-1723617796272-3c3x5g",
+  "user": {
+    "$oid": "66ae53eff96b465a7439154b"
+  },
+  "address": "JAGASATRU",
+  "phone": {
+    "$numberLong": "87810108181"
+  },
+  "subtotal": 50000,
+  "discount": 20000,
+  "voucherApplied": {
+    "$oid": "66bc50a3aa33b3cf3d5ee565"
+  },
+  "total": 50000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "settlement",
+  "orderStatus": "finished",
+  "deliveryOption": "pickup_by_laundry",
+  "deliveryStatus": "delivered",
+  "shippingCost": 20000,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66bc5204aa33b3cf3d5ee7c9"
+      },
+      "beforeWashingImages": [
+        {
+          "link": "http://server-api.silatu.cloud/orders/download (1)-1723618143882.jpg",
+          "_id": {
+            "$oid": "66bc535faa33b3cf3d5eea8b"
+          }
+        }
+      ],
+      "afterWashingImages": [
+        {
+          "link": "http://server-api.silatu.cloud/orders/download-1723618146814.jpg",
+          "_id": {
+            "$oid": "66bc5362aa33b3cf3d5eea99"
+          }
+        }
+      ]
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-14T13:43:16.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:06.839Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-14T21:43:16.023Z"
+  },
+  "__v": 2,
+  "confirmedTime": {
+    "$date": "2024-08-14T13:46:36.839Z"
+  },
+  "pickupScheduledTime": {
+    "$date": "2024-08-14T13:46:43.791Z"
+  },
+  "ReceivedTime": {
+    "$date": "2024-08-14T13:47:29.279Z"
+  },
+  "pickedUpTime": {
+    "$date": "2024-08-14T13:47:36.095Z"
+  },
+  "queueTime": {
+    "$date": "2024-08-14T13:47:46.654Z"
+  },
+  "processingTime": {
+    "$date": "2024-08-14T13:47:56.739Z"
+  },
+  "finishTime": {
+    "$date": "2024-08-14T13:48:01.054Z"
+  },
+  "readyForDeliveryTime": {
+    "$date": "2024-08-14T13:48:05.298Z"
+  },
+  "outForDeliveryTime": {
+    "$date": "2024-08-14T13:48:16.816Z"
+  },
+  "deliveredTime": {
+    "$date": "2024-08-14T13:48:21.176Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "orderId": "ORD-1724207977340-58cv7x",
+  "user": {
+    "$oid": "66ae4856f96b465a743912c9"
+  },
+  "address": "LOBUNTA KOTA CIREBON",
+  "phone": {
+    "$numberLong": "87888887790"
+  },
+  "subtotal": 50000,
+  "discount": 0,
+  "total": 70000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "settlement",
+  "orderStatus": "finished",
+  "deliveryOption": "pickup_by_laundry",
+  "deliveryStatus": "delivered",
+  "shippingCost": 20000,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66c55369aa33b3cf3d5ef5d3"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-21T09:39:37.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-21T09:45:34.865Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-21T17:39:37.279Z"
+  },
+  "__v": 0,
+  "confirmedTime": {
+    "$date": "2024-08-21T09:43:37.415Z"
+  },
+  "pickupScheduledTime": {
+    "$date": "2024-08-21T09:44:09.005Z"
+  },
+  "pickedUpTime": {
+    "$date": "2024-08-21T09:44:15.780Z"
+  },
+  "readyForDeliveryTime": {
+    "$date": "2024-08-21T09:44:22.116Z"
+  },
+  "ReceivedTime": {
+    "$date": "2024-08-21T09:44:27.652Z"
+  },
+  "queueTime": {
+    "$date": "2024-08-21T09:44:32.129Z"
+  },
+  "processingTime": {
+    "$date": "2024-08-21T09:45:08.628Z"
+  },
+  "finishTime": {
+    "$date": "2024-08-21T09:45:16.284Z"
+  },
+  "outForDeliveryTime": {
+    "$date": "2024-08-21T09:45:29.197Z"
+  },
+  "deliveredTime": {
+    "$date": "2024-08-21T09:45:34.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c554ffaa33b3cf3d5ef976"
+  },
+  "orderId": "ORD-1724208382204-d4i7f8",
+  "user": {
+    "$oid": "66ae4856f96b465a743912c9"
+  },
+  "address": "",
+  "phone": {
+    "$numberLong": "87888887790"
+  },
+  "subtotal": 600000,
+  "discount": 0,
+  "total": 600000,
+  "paymentMethod": "cod",
+  "paymentStatus": "settlement",
+  "orderStatus": "confirmed",
+  "deliveryOption": "self_service",
+  "deliveryStatus": "pending",
+  "shippingCost": 0,
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 12,
+      "_id": {
+        "$oid": "66c554ffaa33b3cf3d5ef977"
+      },
+      "beforeWashingImages": [],
+      "afterWashingImages": []
+    }
+  ],
+  "uploadPaymentReceipt": [],
+  "createdAt": {
+    "$date": "2024-08-21T09:46:23.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-21T09:48:08.168Z"
+  },
+  "estimatedFinishTime": {
+    "$date": "2024-08-21T17:46:23.638Z"
+  },
+  "__v": 0
+}]

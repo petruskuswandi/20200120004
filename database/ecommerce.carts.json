@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "66ae552ef96b465a74391689"
+  },
+  "user": {
+    "$oid": "66ae53d6f96b465a74391524"
+  },
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66b58ad262dde8d766de07d1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-03T23:05:02.576Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:08:49.718Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66aefafbf96b465a74391da9"
+  },
+  "user": {
+    "$oid": "66aefac0f96b465a74391d7e"
+  },
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66aefafbf96b465a74391daa"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-04T10:52:27.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-04T10:52:27.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af78fea7e8f91da9838702"
+  },
+  "user": {
+    "$oid": "66ae4856f96b465a743912c9"
+  },
+  "services": [],
+  "createdAt": {
+    "$date": "2024-08-04T19:50:06.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T09:54:30.338Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66b17f4da7e8f91da9838dfd"
+  },
+  "user": {
+    "$oid": "66b17f38a7e8f91da9838dd1"
+  },
+  "services": [],
+  "createdAt": {
+    "$date": "2024-08-06T08:41:33.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:21:00.779Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66b593b84b2cc6253ee1f16f"
+  },
+  "user": {
+    "$oid": "66ae53eff96b465a7439154b"
+  },
+  "services": [],
+  "createdAt": {
+    "$date": "2024-08-09T10:57:44.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T22:30:29.155Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66bc172baa33b3cf3d5edd81"
+  },
+  "user": {
+    "$oid": "66bc1700aa33b3cf3d5edd48"
+  },
+  "services": [
+    {
+      "serviceId": {
+        "$oid": "66ae4a29f96b465a74391327"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "66bc172baa33b3cf3d5edd82"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-14T09:32:11.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T09:32:11.321Z"
+  },
+  "__v": 0
+}]

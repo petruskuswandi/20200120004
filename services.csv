@@ -1,0 +1,2 @@
+﻿name,description,category,price,estimatedDuration_days,estimatedDuration_hours,materials,laborCost,applicableShoeTypes,images,note 
+"Suede Deep Clean,""Specialized cleaning service for suede shoes."",""Deep Cleaning"",50000,0,8,""[{""""name"""":""""Suede Cleaner"""",""""cost"""":2000},{""""name"""":""""Suede Brush"""",""""cost"""":1000}]"",35000,""[""""Suede""""]"",""[{""""link"""":""""https://example.com/images/suede-clean-1.jpg""""},{""""link"""":""""https://example.com/images/suede-clean-2.jpg""""}]"",""Includes application of suede protector after cleaning."""

@@ -1,0 +1,3025 @@
+[{
+  "_id": {
+    "$oid": "66af2196a7e8f91da9838300"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: 17MERDEKA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66af2196a7e8f91da9838301"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66af2195a7e8f91da98382fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T13:37:10.006Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T09:54:16.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af2196a7e8f91da9838303"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: 17MERDEKA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66af2196a7e8f91da9838304"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66af2195a7e8f91da98382fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T13:37:10.037Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-05T10:04:04.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af2196a7e8f91da9838306"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: 17MERDEKA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53fef96b465a74391568"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66af2196a7e8f91da9838307"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66af2195a7e8f91da98382fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T13:37:10.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:44:29.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af2196a7e8f91da9838309"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: 17MERDEKA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af14d0a7e8f91da98380ca"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66af2196a7e8f91da983830a"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66af2195a7e8f91da98382fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T13:37:10.095Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-04T13:37:10.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af244ca7e8f91da9838355"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: 17MERDEKA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66af244ca7e8f91da9838356"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66af2195a7e8f91da98382fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T13:48:44.840Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T09:54:15.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af244ca7e8f91da9838358"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: 17MERDEKA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66af244ca7e8f91da9838359"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66af2195a7e8f91da98382fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T13:48:44.867Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-05T10:04:04.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af244ca7e8f91da983835b"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: 17MERDEKA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53fef96b465a74391568"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66af244ca7e8f91da983835c"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66af2195a7e8f91da98382fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T13:48:44.897Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:44:28.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af244ca7e8f91da983835e"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: 17MERDEKA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af14d0a7e8f91da98380ca"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66af244ca7e8f91da983835f"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66af2195a7e8f91da98382fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-04T13:48:44.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-04T13:48:44.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b04117a7e8f91da9838b26"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1722827030528-ac4i1e",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b04117a7e8f91da9838b27"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-05T10:03:51.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T07:45:06.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b04155a7e8f91da9838b8b"
+  },
+  "type": "payment_status_update",
+  "message": "Payment status for your COD order ORD-1722827030528-ac4i1e has been updated to settlement",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b04155a7e8f91da9838b8c"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-05T10:04:53.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:27:05.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b04191a7e8f91da9838b99"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1722827030528-ac4i1e has been updated to pickup_scheduled",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b04191a7e8f91da9838b9a"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-05T10:05:53.624Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:27:01.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b0419da7e8f91da9838ba7"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1722827030528-ac4i1e status has been updated to confirmed",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b0419da7e8f91da9838ba8"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-05T10:06:05.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:27:00.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b0bd76a7e8f91da9838c0a"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1722827030528-ac4i1e has been updated to picked_up",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b0bd76a7e8f91da9838c0b"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-05T18:54:30.501Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:26:59.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b0be3fa7e8f91da9838c48"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1722827030528-ac4i1e status has been updated to received",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b0be3fa7e8f91da9838c49"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-05T18:57:51.959Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:26:55.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b17f8fa7e8f91da9838e80"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1722827030528-ac4i1e status has been updated to queue",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": false,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b17f8fa7e8f91da9838e81"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-06T08:42:39.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T10:22:50.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b17fa8a7e8f91da9838e8e"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1722827030528-ac4i1e has been updated to ready_for_delivery",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b17fa8a7e8f91da9838e8f"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-06T08:43:04.462Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T10:22:48.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b18095a7e8f91da9838eea"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: NEWUSER2024",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b17f38a7e8f91da9838dd1"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b18095a7e8f91da9838eeb"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b18095a7e8f91da9838ee8"
+  },
+  "createdAt": {
+    "$date": "2024-08-06T08:47:01.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T09:02:27.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b183f6a7e8f91da9839108"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1722909686804-1sfwt8",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b183f6a7e8f91da9839109"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b183f6a7e8f91da98390fd"
+  },
+  "createdAt": {
+    "$date": "2024-08-06T09:01:26.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T07:45:05.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b18422a7e8f91da9839161"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1722909731461-ybf720",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b18422a7e8f91da9839162"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b18422a7e8f91da9839156"
+  },
+  "createdAt": {
+    "$date": "2024-08-06T09:02:10.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T07:45:03.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b43263926ead87ae5b15d1"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b43263926ead87ae5b15d2"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T09:50:11.320Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T09:54:14.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b43263926ead87ae5b15d4"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53d6f96b465a74391524"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b43263926ead87ae5b15d5"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T09:50:11.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T10:19:39.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b43263926ead87ae5b15d7"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b43263926ead87ae5b15d8"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T09:50:11.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T10:22:46.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b43263926ead87ae5b15da"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53fef96b465a74391568"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b43263926ead87ae5b15db"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T09:50:11.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T09:47:00.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b43263926ead87ae5b15dd"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af14d0a7e8f91da98380ca"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b43263926ead87ae5b15de"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T09:50:11.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T09:50:11.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b43263926ead87ae5b15e0"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b0bdd5a7e8f91da9838c2a"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b43263926ead87ae5b15e1"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T09:50:11.491Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T09:50:11.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b43263926ead87ae5b15e3"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b17f38a7e8f91da9838dd1"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b43263926ead87ae5b15e4"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T09:50:11.522Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T09:02:26.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b4352d62dde8d766de05ca"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: NEWUSER2024",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b17f38a7e8f91da9838dd1"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b4352d62dde8d766de05cb"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b18095a7e8f91da9838ee8"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T10:02:05.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T09:02:25.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b43c2362dde8d766de06d6"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723087906748-fpaid0",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b43c2362dde8d766de06d7"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b43c2262dde8d766de06cb"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T10:31:47.088Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T10:32:11.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b58db362dde8d766de0985"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723174323032-sglvma",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b58db362dde8d766de0986"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b58db362dde8d766de097a"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T10:32:03.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T10:37:22.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b58e1062dde8d766de0a00"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723174416570-9dxcsk",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b58e1062dde8d766de0a01"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b58e1062dde8d766de09f5"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T10:33:36.781Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T10:37:23.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b621b671bae8d453ad04e2"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1722827030528-ac4i1e",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b621b671bae8d453ad04e3"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T21:03:34.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:33:26.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b621be71bae8d453ad04f6"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1722909686804-1sfwt8",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b621be71bae8d453ad04f7"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b183f6a7e8f91da98390fd"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T21:03:42.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:33:24.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b621cf71bae8d453ad052d"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1722909686804-1sfwt8",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b621cf71bae8d453ad052e"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b183f6a7e8f91da98390fd"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T21:03:59.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:33:22.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6242b71bae8d453ad0586"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1723087906748-fpaid0",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6242b71bae8d453ad0587"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b43c2262dde8d766de06cb"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T21:14:03.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:33:21.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6243671bae8d453ad059e"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1723087906748-fpaid0",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6243671bae8d453ad059f"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b43c2262dde8d766de06cb"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T21:14:14.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:33:19.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6244e71bae8d453ad05ba"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1723087906748-fpaid0",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6244e71bae8d453ad05bb"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b43c2262dde8d766de06cb"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T21:14:38.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:33:18.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b63d7d71bae8d453ad07ef"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1722909686804-1sfwt8",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b63d7d71bae8d453ad07f0"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b183f6a7e8f91da98390fd"
+  },
+  "createdAt": {
+    "$date": "2024-08-09T23:02:05.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:33:17.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6bba58758501f1a4c840d"
+  },
+  "type": "order_deleted",
+  "message": "Your order ORD-1723174416570-9dxcsk has been deleted by the admin",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b6bba58758501f1a4c840e"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b58e1062dde8d766de09f5"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T08:00:21.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:27:02.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6bdcb8758501f1a4c8504"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1722827030528-ac4i1e",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6bdcb8758501f1a4c8505"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T08:09:31.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:33:15.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6be348758501f1a4c8539"
+  },
+  "type": "payment_status_update",
+  "message": "Payment status for your COD order ORD-1722827030528-ac4i1e has been updated to settlement",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": false,
+      "isDeleted": true,
+      "_id": {
+        "$oid": "66b6be348758501f1a4c853a"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b04117a7e8f91da9838b1c"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T08:11:16.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T08:27:03.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6c1b38758501f1a4c8571"
+  },
+  "type": "payment_status_update",
+  "message": "Payment status for your COD order ORD-1723087906748-fpaid0 has been updated to pending",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6c1b38758501f1a4c8572"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b43c2262dde8d766de06cb"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T08:26:11.399Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T09:02:44.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6cc97d16fd599942d6f4a"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723255957832-a0gmw9",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6cc97d16fd599942d6f4b"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b6cc97d16fd599942d6f3d"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T09:12:39.358Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T09:13:14.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6cca3d16fd599942d6f5a"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1723255957832-a0gmw9",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6cca3d16fd599942d6f5b"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b6cc97d16fd599942d6f3d"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T09:12:51.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T09:13:13.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6d8bed16fd599942d769b"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723259068830-tbpegr",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6d8bed16fd599942d769c"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b6d8bed16fd599942d768e"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T10:04:30.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:09:28.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6d8cad16fd599942d76b6"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723259080882-31098i",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6d8cad16fd599942d76b7"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b6d8cad16fd599942d76a9"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T10:04:42.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:09:27.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6d905d16fd599942d770b"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723259140532-yl7i7h",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6d905d16fd599942d770c"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b6d905d16fd599942d76fe"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T10:05:41.845Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:09:26.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b6d919d16fd599942d774f"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723259160648-q6aq7l",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b6d919d16fd599942d7750"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b6d919d16fd599942d7742"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T10:06:01.948Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:09:25.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b707b1aa33b3cf3d5ecb59"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723271088960-p2n1jr",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b707b1aa33b3cf3d5ecb5a"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b707b1aa33b3cf3d5ecb4c"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T13:24:49.224Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:27:07.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7082aaa33b3cf3d5eccd9"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723271210244-t89muv",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b7082aaa33b3cf3d5eccda"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b7082aaa33b3cf3d5ecccc"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T13:26:50.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:27:09.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b70860aa33b3cf3d5ecd87"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1723271210244-t89muv status has been updated to confirmed",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b7076aaa33b3cf3d5eca97"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b70860aa33b3cf3d5ecd88"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b7082aaa33b3cf3d5ecccc"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T13:27:44.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:27:44.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b70892aa33b3cf3d5ecda7"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1723271210244-t89muv has been updated to pickup_scheduled",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b7076aaa33b3cf3d5eca97"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b70892aa33b3cf3d5ecda8"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b7082aaa33b3cf3d5ecccc"
+  },
+  "createdAt": {
+    "$date": "2024-08-10T13:28:34.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T13:28:34.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b8bce1aa33b3cf3d5ed6c1"
+  },
+  "type": "payment_receipt_uploaded",
+  "message": "Payment receipt uploaded for order ORD-1723087906748-fpaid0",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b8bce1aa33b3cf3d5ed6c2"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b43c2262dde8d766de06cb"
+  },
+  "createdAt": {
+    "$date": "2024-08-11T20:30:09.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-11T20:58:18.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a488aa33b3cf3d5ed84a"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723442312177-xgsy0x",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b9a488aa33b3cf3d5ed84b"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b9a488aa33b3cf3d5ed83d"
+  },
+  "createdAt": {
+    "$date": "2024-08-12T12:58:32.531Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:02:48.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a4a1aa33b3cf3d5ed865"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723442337327-9zkdva",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b9a4a1aa33b3cf3d5ed866"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b9a4a1aa33b3cf3d5ed858"
+  },
+  "createdAt": {
+    "$date": "2024-08-12T12:58:57.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:02:47.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a4cfaa33b3cf3d5ed8b4"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723442383121-bnk7ek",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b9a4cfaa33b3cf3d5ed8b5"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b9a4cfaa33b3cf3d5ed8a7"
+  },
+  "createdAt": {
+    "$date": "2024-08-12T12:59:43.479Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:02:46.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a4e9aa33b3cf3d5ed903"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723442408679-1ay6kr",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b9a4e9aa33b3cf3d5ed904"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b9a4e8aa33b3cf3d5ed8f6"
+  },
+  "createdAt": {
+    "$date": "2024-08-12T13:00:09.295Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:02:45.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9a505aa33b3cf3d5ed952"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723442437559-4ngwl4",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66b9a505aa33b3cf3d5ed953"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66b9a505aa33b3cf3d5ed945"
+  },
+  "createdAt": {
+    "$date": "2024-08-12T13:00:37.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T13:02:44.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc46f0aa33b3cf3d5edf44"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: COBACOBA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc46f0aa33b3cf3d5edf45"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66bc46f0aa33b3cf3d5edf42"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T12:56:00.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:41:55.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc4708aa33b3cf3d5edf5a"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: NEWUSER2024",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b17f38a7e8f91da9838dd1"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc4708aa33b3cf3d5edf5b"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b18095a7e8f91da9838ee8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T12:56:24.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:20:50.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc471faa33b3cf3d5edf72"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: COBACOBA",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc471faa33b3cf3d5edf73"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66bc46f0aa33b3cf3d5edf42"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T12:56:47.568Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:41:55.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50a3aa33b3cf3d5ee567"
+  },
+  "type": "new_voucher",
+  "message": "New voucher available: GRATISONGKIRAGUSTUS2024",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50a3aa33b3cf3d5ee568"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66bc50a3aa33b3cf3d5ee565"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:37:23.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:41:56.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50d0aa33b3cf3d5ee585"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50d0aa33b3cf3d5ee586"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:08.769Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-19T15:31:44.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50d0aa33b3cf3d5ee588"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53d6f96b465a74391524"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50d0aa33b3cf3d5ee589"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:08.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:01:21.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50d0aa33b3cf3d5ee58b"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50d0aa33b3cf3d5ee58c"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:08.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:41:57.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50d0aa33b3cf3d5ee58e"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53fef96b465a74391568"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50d0aa33b3cf3d5ee58f"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:08.848Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:08.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50d0aa33b3cf3d5ee591"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af14d0a7e8f91da98380ca"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50d0aa33b3cf3d5ee592"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:08.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:08.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50d0aa33b3cf3d5ee594"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b0bdd5a7e8f91da9838c2a"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50d0aa33b3cf3d5ee595"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:08.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:08.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50d0aa33b3cf3d5ee597"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b17f38a7e8f91da9838dd1"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50d0aa33b3cf3d5ee598"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:08.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:20:48.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50d0aa33b3cf3d5ee59a"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b7076aaa33b3cf3d5eca97"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50d0aa33b3cf3d5ee59b"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:08.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:08.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50ddaa33b3cf3d5ee5ae"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50ddaa33b3cf3d5ee5af"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:21.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-19T15:31:43.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50ddaa33b3cf3d5ee5b1"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53d6f96b465a74391524"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50ddaa33b3cf3d5ee5b2"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:21.889Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:01:20.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50ddaa33b3cf3d5ee5b4"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50ddaa33b3cf3d5ee5b5"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:21.916Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:41:58.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50ddaa33b3cf3d5ee5b7"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53fef96b465a74391568"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50ddaa33b3cf3d5ee5b8"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:21.947Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:21.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50ddaa33b3cf3d5ee5ba"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af14d0a7e8f91da98380ca"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50ddaa33b3cf3d5ee5bb"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:21.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:21.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50ddaa33b3cf3d5ee5bd"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b0bdd5a7e8f91da9838c2a"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50ddaa33b3cf3d5ee5be"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:22.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:22.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50deaa33b3cf3d5ee5c0"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b17f38a7e8f91da9838dd1"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50deaa33b3cf3d5ee5c1"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:22.027Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:20:47.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50deaa33b3cf3d5ee5c3"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAUGUST",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66b7076aaa33b3cf3d5eca97"
+      },
+      "isRead": false,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc50deaa33b3cf3d5ee5c4"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:38:22.052Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:22.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5204aa33b3cf3d5ee7d3"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1723617796272-3c3x5g",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc5204aa33b3cf3d5ee7d4"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:43:16.104Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:46:10.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc52ccaa33b3cf3d5ee8e5"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1723617796272-3c3x5g status has been updated to confirmed",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc52ccaa33b3cf3d5ee8e6"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:46:36.874Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:58.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc52d3aa33b3cf3d5ee90b"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1723617796272-3c3x5g has been updated to pickup_scheduled",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc52d3aa33b3cf3d5ee90c"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:46:43.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:57.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5301aa33b3cf3d5ee95c"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1723617796272-3c3x5g status has been updated to received",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc5301aa33b3cf3d5ee95d"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:47:29.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:56.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5308aa33b3cf3d5ee982"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1723617796272-3c3x5g has been updated to picked_up",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc5308aa33b3cf3d5ee983"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:47:36.135Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:51.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5312aa33b3cf3d5ee9a8"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1723617796272-3c3x5g status has been updated to queue",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc5312aa33b3cf3d5ee9a9"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:47:46.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:50.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc531caa33b3cf3d5ee9ce"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1723617796272-3c3x5g status has been updated to processing",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc531caa33b3cf3d5ee9cf"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:47:56.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:48.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5321aa33b3cf3d5ee9f4"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1723617796272-3c3x5g status has been updated to finished",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc5321aa33b3cf3d5ee9f5"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:48:01.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:46.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5325aa33b3cf3d5eea1a"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1723617796272-3c3x5g has been updated to ready_for_delivery",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc5325aa33b3cf3d5eea1b"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:48:05.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:44.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5330aa33b3cf3d5eea40"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1723617796272-3c3x5g has been updated to out_for_delivery",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc5330aa33b3cf3d5eea41"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:48:16.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:43.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc5335aa33b3cf3d5eea66"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1723617796272-3c3x5g has been updated to delivered",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66bc5335aa33b3cf3d5eea67"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66bc5204aa33b3cf3d5ee7c8"
+  },
+  "createdAt": {
+    "$date": "2024-08-14T13:48:21.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:49:42.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c1d612aa33b3cf3d5eefaa"
+  },
+  "type": "voucher_updated",
+  "message": "Voucher: GRATISONGKIRAGUSTUS2024",
+  "forRole": "user",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c1d612aa33b3cf3d5eefab"
+      }
+    }
+  ],
+  "relatedVoucher": {
+    "$oid": "66bc50a3aa33b3cf3d5ee565"
+  },
+  "createdAt": {
+    "$date": "2024-08-18T18:08:02.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:09:34.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c55369aa33b3cf3d5ef5dd"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1724207977340-58cv7x",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c55369aa33b3cf3d5ef5de"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:39:37.354Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-21T09:42:36.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c55459aa33b3cf3d5ef70f"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1724207977340-58cv7x status has been updated to confirmed",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c55459aa33b3cf3d5ef710"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:43:37.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-21T09:43:53.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c55479aa33b3cf3d5ef75c"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1724207977340-58cv7x has been updated to pickup_scheduled",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c55479aa33b3cf3d5ef75d"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:44:09.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:42.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c5547faa33b3cf3d5ef785"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1724207977340-58cv7x has been updated to picked_up",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c5547faa33b3cf3d5ef786"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:44:15.812Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:43.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c55486aa33b3cf3d5ef7ae"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1724207977340-58cv7x has been updated to ready_for_delivery",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c55486aa33b3cf3d5ef7af"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:44:22.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:44.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c5548baa33b3cf3d5ef7d7"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1724207977340-58cv7x status has been updated to received",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c5548baa33b3cf3d5ef7d8"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:44:27.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:46.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c55490aa33b3cf3d5ef800"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1724207977340-58cv7x status has been updated to queue",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c55490aa33b3cf3d5ef801"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:44:32.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:47.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c55498aa33b3cf3d5ef829"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1724207977340-58cv7x status has been updated to pending",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c55498aa33b3cf3d5ef82a"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:44:40.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:48.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c554b4aa33b3cf3d5ef898"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1724207977340-58cv7x status has been updated to processing",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c554b4aa33b3cf3d5ef899"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:45:08.654Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:49.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c554bcaa33b3cf3d5ef8c1"
+  },
+  "type": "order_status",
+  "message": "Your order ORD-1724207977340-58cv7x status has been updated to finished",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c554bcaa33b3cf3d5ef8c2"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:45:16.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:50.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c554c9aa33b3cf3d5ef8ea"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1724207977340-58cv7x has been updated to out_for_delivery",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c554c9aa33b3cf3d5ef8eb"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:45:29.230Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:55.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c554ceaa33b3cf3d5ef913"
+  },
+  "type": "delivery_status",
+  "message": "Delivery status for your order ORD-1724207977340-58cv7x has been updated to delivered",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c554ceaa33b3cf3d5ef914"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c55369aa33b3cf3d5ef5d2"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:45:34.899Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:57.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c55500aa33b3cf3d5ef981"
+  },
+  "type": "new_order",
+  "message": "New order received: ORD-1724208382204-d4i7f8",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66af066c18d9169e4acdd00e"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c55500aa33b3cf3d5ef982"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c554ffaa33b3cf3d5ef976"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:46:24.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T20:08:51.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c55568aa33b3cf3d5ef9da"
+  },
+  "type": "payment_status_update",
+  "message": "Payment status for your COD order ORD-1724208382204-d4i7f8 has been updated to settlement",
+  "recipients": [
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "isRead": true,
+      "isDeleted": false,
+      "_id": {
+        "$oid": "66c55568aa33b3cf3d5ef9db"
+      }
+    }
+  ],
+  "relatedOrder": {
+    "$oid": "66c554ffaa33b3cf3d5ef976"
+  },
+  "createdAt": {
+    "$date": "2024-08-21T09:48:08.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T07:04:59.196Z"
+  },
+  "__v": 0
+}]

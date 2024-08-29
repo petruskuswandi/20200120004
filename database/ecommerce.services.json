@@ -1,0 +1,219 @@
+[{
+  "_id": {
+    "$oid": "66ae4a29f96b465a74391327"
+  },
+  "name": "Pembersihan Sepatu Berbahan Suede",
+  "description": "<p>Specialized cleaning service for suede shoes.</p>",
+  "category": "Deep Cleaning",
+  "price": 50000,
+  "estimatedDuration": {
+    "days": 0,
+    "hours": 8
+  },
+  "materials": [
+    {
+      "name": "Suede Cleaner",
+      "cost": 2000,
+      "_id": {
+        "$oid": "66ae4a29f96b465a74391328"
+      }
+    },
+    {
+      "name": "Suede Brush",
+      "cost": 1000,
+      "_id": {
+        "$oid": "66ae4a29f96b465a74391329"
+      }
+    }
+  ],
+  "laborCost": 35000,
+  "profit": 12000,
+  "rating": 5,
+  "images": [
+    {
+      "link": "http://server-api.silatu.cloud/services/download (2)-1723617616884.jpg",
+      "_id": {
+        "$oid": "66bc5150aa33b3cf3d5ee68e"
+      }
+    }
+  ],
+  "applicableShoeTypes": [
+    "Suede"
+  ],
+  "isAvailable": true,
+  "note": "Includes application of suede protector after cleaning.",
+  "reviews": [
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "rating": 5,
+      "comment": "<p>Keren</p>",
+      "_id": {
+        "$oid": "66b181daa7e8f91da9838f9d"
+      },
+      "date": {
+        "$date": "2024-08-06T01:52:26.444Z"
+      }
+    },
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "rating": 5,
+      "comment": "<p>Keren</p>",
+      "_id": {
+        "$oid": "66b63c1071bae8d453ad0735"
+      },
+      "date": {
+        "$date": "2024-08-09T15:56:00.846Z"
+      }
+    },
+    {
+      "user": {
+        "$oid": "66ae53eff96b465a7439154b"
+      },
+      "rating": 5,
+      "comment": "<p>llll</p>",
+      "_id": {
+        "$oid": "66b63d5671bae8d453ad07a5"
+      },
+      "date": {
+        "$date": "2024-08-09T16:01:26.359Z"
+      }
+    },
+    {
+      "user": {
+        "$oid": "66ae4856f96b465a743912c9"
+      },
+      "rating": 5,
+      "comment": "<p>KEREN</p>",
+      "_id": {
+        "$oid": "66c555d2aa33b3cf3d5efa2d"
+      },
+      "date": {
+        "$date": "2024-08-21T02:49:54.762Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-03T22:18:01.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-21T09:49:54.765Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "66c89f9baa33b3cf3d5efba8"
+  },
+  "name": "Cuci Sepatu dan Perawatan Canvas",
+  "description": "<p>Specialized cleaning service for suede shoes.</p>",
+  "category": "Deep Cleaning and Caring",
+  "price": 30000,
+  "estimatedDuration": {
+    "days": 0,
+    "hours": 8
+  },
+  "materials": [
+    {
+      "name": "Sikat Kawat Pembersih",
+      "cost": 2000,
+      "_id": {
+        "$oid": "66c89f9baa33b3cf3d5efba9"
+      }
+    },
+    {
+      "name": "Pewangi",
+      "cost": 1000,
+      "_id": {
+        "$oid": "66c89f9baa33b3cf3d5efbaa"
+      }
+    },
+    {
+      "name": "Sabun",
+      "cost": 2000,
+      "_id": {
+        "$oid": "66c89f9baa33b3cf3d5efbab"
+      }
+    }
+  ],
+  "laborCost": 15000,
+  "profit": 10000,
+  "rating": 0,
+  "images": [
+    {
+      "link": "http://server-api.silatu.cloud/services/Screenshot_20240823-214440-1724424322466.jpg",
+      "_id": {
+        "$oid": "66c8a082aa33b3cf3d5efe93"
+      }
+    }
+  ],
+  "applicableShoeTypes": [
+    "Suede"
+  ],
+  "isAvailable": true,
+  "note": "Includes application of suede protector after cleaning.",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-08-23T21:41:31.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T21:45:22.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c89f9baa33b3cf3d5efbb8"
+  },
+  "name": "Helm Full Face",
+  "description": "<p>Specialized cleaning service for suede shoes.</p>",
+  "category": "Deep Cleaning",
+  "price": 30000,
+  "estimatedDuration": {
+    "days": 0,
+    "hours": 8
+  },
+  "materials": [
+    {
+      "name": "Suede Cleaner",
+      "cost": 2000,
+      "_id": {
+        "$oid": "66c89f9baa33b3cf3d5efbb9"
+      }
+    },
+    {
+      "name": "Suede Brush",
+      "cost": 1000,
+      "_id": {
+        "$oid": "66c89f9baa33b3cf3d5efbba"
+      }
+    }
+  ],
+  "laborCost": 15000,
+  "profit": 12000,
+  "rating": 0,
+  "images": [
+    {
+      "link": "http://server-api.silatu.cloud/services/IMG-20240730-WA0023-1724424171970.jpg",
+      "_id": {
+        "$oid": "66c89febaa33b3cf3d5efd22"
+      }
+    }
+  ],
+  "applicableShoeTypes": [
+    "Suede"
+  ],
+  "isAvailable": true,
+  "note": "Includes application of suede protector after cleaning.",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-08-23T21:41:31.129Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T21:42:51.991Z"
+  },
+  "__v": 0
+}]

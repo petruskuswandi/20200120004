@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "521b6d2b-6894-43e0-a842-079cc335bc07",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1724847572255"
+        }
+      },
+      "favorite": {
+        "name": "Ecommerce"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://petruskuswandi1:PetrusQueensha2202@cluster0.dwb3qtb.mongodb.net/ecommerce?retryWrites=true&w=majority&appName=Cluster0",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

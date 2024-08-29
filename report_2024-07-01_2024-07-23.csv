@@ -1,0 +1,29 @@
+No,Order ID,Tanggal,Pelanggan,Produk,Jumlah,Harga,Ongkir,Total Harga,Profit
+1,ORD-1721695479140-v8krgm,23/07/2024,Petrus Kuswandi,Sneaker Basic Clean (Basic Cleaning),1,30000.00,20000.00,50000.00,8000.00
+2,ORD-1721620374157-xn7ukc,22/07/2024,Petrus Kuswandi,Sneaker Basic Clean (Basic Cleaning),1,30000.00,20000.00,50000.00,8000.00
+3,ORD-1721619712557-30wo3f,22/07/2024,Petrus Kuswandi,Sneaker Basic Clean (Basic Cleaning),1,30000.00,20000.00,50000.00,8000.00
+4,ORD-17210315775869abcds,21/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning); Sneaker Basic Clean (Basic Cleaning),2; 1,100000.00; 30000.00,20000.00,150000.00,32000.00
+5,ORD-17210315775869abcds,21/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning); Sneaker Basic Clean (Basic Cleaning),2; 1,100000.00; 30000.00,20000.00,130000.00,32000.00
+6,ORD-1721325497768-77myb4,19/07/2024,Petrus Kuswandi,Leather Shoe Restoration (Deep Cleaning),1,75000.00,0.00,75000.00,17500.00
+7,ORD-1721288686714-y2ok9e,18/07/2024,Petrus Kuswandi,Leather Shoe Restoration (Deep Cleaning),8,600000.00,20000.00,500000.00,140000.00
+8,ORD-1721288613323-ed288s,18/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning),10,500000.00,0.00,500000.00,120000.00
+9,ORD-1721284362273-rnhxis,18/07/2024,Pani Fadilah,Suede Deep Clean (Deep Cleaning),10,500000.00,0.00,500000.00,120000.00
+10,ORD-1721279778607-zyq5ms,18/07/2024,Petrus Kuswandi,Leather Shoe Restoration (Deep Cleaning),7,525000.00,0.00,446250.00,122500.00
+11,ORD-1721279269510-wn3gsm,18/07/2024,Petrus Kuswandi,Leather Shoe Restoration (Deep Cleaning),10,750000.00,0.00,750000.00,175000.00
+12,ORD-1721278744333-cxn7kd,18/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning),10,500000.00,0.00,500000.00,120000.00
+13,ORD-1721278670887-nqeyr1,18/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning),10,500000.00,0.00,500000.00,120000.00
+14,ORD-1721278193274-w6gzka,18/07/2024,Petrus Kuswandi,Leather Shoe Restoration (Deep Cleaning),10,750000.00,0.00,750000.00,175000.00
+15,ORD-1721277971636-6pfpc1,18/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning),10,500000.00,0.00,500000.00,120000.00
+16,ORD-1721277812834-t4l9ht,18/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning),10,500000.00,0.00,500000.00,120000.00
+17,ORD-1721277747799-oom9k4,18/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning),10,500000.00,0.00,500000.00,120000.00
+18,ORD-1721277538670-4a6kn4,18/07/2024,Petrus Kuswandi,Sneaker Basic Clean (Basic Cleaning); Suede Deep Clean (Deep Cleaning),1; 10,30000.00; 500000.00,0.00,530000.00,128000.00
+19,ORD-1721277018773-trntap,18/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning); Sneaker Basic Clean (Basic Cleaning),10; 1,500000.00; 30000.00,0.00,530000.00,128000.00
+20,ORD-1721276921716-auew5p,18/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning); Sneaker Basic Clean (Basic Cleaning),10; 1,500000.00; 30000.00,0.00,530000.00,128000.00
+21,ORD-1721276745083-b9ge19,18/07/2024,Petrus Kuswandi,Sneaker Basic Clean (Basic Cleaning),17,510000.00,0.00,433500.00,136000.00
+22,ORD-1721276671816-azbxfx,18/07/2024,Petrus Kuswandi,Sneaker Basic Clean (Basic Cleaning),1,30000.00,0.00,30000.00,8000.00
+23,ORD-1721276630833-lmy0md,18/07/2024,Petrus Kuswandi,Sneaker Basic Clean (Basic Cleaning),1,30000.00,0.00,30000.00,8000.00
+
+Tanggal:,01/07/2024 - 23/07/2024
+Pendapatan:,8534750.00
+Profit:,2094000.00
+Jumlah Transaksi:,23

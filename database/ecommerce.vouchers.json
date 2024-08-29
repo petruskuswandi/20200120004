@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "66b43263926ead87ae5b15cf"
+  },
+  "code": "GRATISONGKIRAUGUST",
+  "description": "Gratis Ongkir Seluruh Pengguna",
+  "discountType": "percentage",
+  "discountValue": 10,
+  "maxDiscount": 20000,
+  "minPurchase": 0,
+  "startDate": {
+    "$date": "2024-08-08T09:49:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-08-31T09:49:00.000Z"
+  },
+  "usageLimit": 20,
+  "usageCount": 2,
+  "isActive": true,
+  "applicableServices": [
+    {
+      "$oid": "66ae4a29f96b465a74391327"
+    }
+  ],
+  "excludedServices": [],
+  "users": [
+    {
+      "$oid": "66ae4856f96b465a743912c9"
+    },
+    {
+      "$oid": "66ae53d6f96b465a74391524"
+    },
+    {
+      "$oid": "66ae53eff96b465a7439154b"
+    },
+    {
+      "$oid": "66ae53fef96b465a74391568"
+    },
+    {
+      "$oid": "66af14d0a7e8f91da98380ca"
+    },
+    {
+      "$oid": "66b0bdd5a7e8f91da9838c2a"
+    },
+    {
+      "$oid": "66b17f38a7e8f91da9838dd1"
+    },
+    {
+      "$oid": "66b7076aaa33b3cf3d5eca97"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-08T09:50:11.268Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T13:38:21.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc46f0aa33b3cf3d5edf42"
+  },
+  "code": "COBACOBA",
+  "description": "APAPUN",
+  "discountType": "percentage",
+  "discountValue": 10,
+  "maxDiscount": 50000,
+  "minPurchase": 500000,
+  "startDate": {
+    "$date": "2024-08-14T12:55:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-08-31T12:55:00.000Z"
+  },
+  "usageLimit": 20,
+  "usageCount": 0,
+  "isActive": true,
+  "applicableServices": [
+    {
+      "$oid": "66ae4a29f96b465a74391327"
+    }
+  ],
+  "excludedServices": [],
+  "users": [
+    {
+      "$oid": "66ae53eff96b465a7439154b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-14T12:56:00.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-14T12:56:47.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc50a3aa33b3cf3d5ee565"
+  },
+  "code": "GRATISONGKIRAGUSTUS2024",
+  "description": "Promo Agustus",
+  "discountType": "fixed",
+  "discountValue": 20000,
+  "maxDiscount": 0,
+  "minPurchase": 50000,
+  "startDate": {
+    "$date": "2024-08-14T13:36:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-08-31T13:36:00.000Z"
+  },
+  "usageLimit": 20,
+  "usageCount": 1,
+  "isActive": false,
+  "applicableServices": [
+    {
+      "$oid": "66ae4a29f96b465a74391327"
+    }
+  ],
+  "excludedServices": [],
+  "users": [
+    {
+      "$oid": "66ae53eff96b465a7439154b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-14T13:37:23.357Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T18:08:02.417Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,11 @@
+No,Order ID,Tanggal,Pelanggan,Produk,Jumlah,Harga,Diskon,Ongkir,Total Harga,Profit
+1,ORD-1721958970557-jdijst,26/07/2024,Petrus Kuswandi,Sneaker Whitening (Whitening),1,45000.00,0.00,0.00,45000.00,9500.00
+2,ORD-25072024-apapun,26/07/2024,Petrus Kuswandi,Sneaker Whitening (Whitening),20,900000.00,20000.00,0.00,1380000.00,190000.00
+2,ORD-25072024-apapun,26/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning),10,500000.00,,,,120000.00
+3,ORD-25072024-asdawa,26/07/2024,Petrus Kuswandi,Sneaker Whitening (Whitening),20,900000.00,100000.00,0.00,1300000.00,190000.00
+3,ORD-25072024-asdawa,26/07/2024,Petrus Kuswandi,Suede Deep Clean (Deep Cleaning),10,500000.00,,,,120000.00
+
+Tanggal:,25/07/2024 - 26/07/2024
+Pendapatan:,2725000.00
+Profit:,629500.00
+Jumlah Transaksi:,3
